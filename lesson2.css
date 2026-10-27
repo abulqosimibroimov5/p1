@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.top{
+    box-shadow: 1px 1px 5px rgb(225, 214, 214);
+    padding: 20px;
+    align-items: center;
+    display: flex;
+}
+.Links{
+    display: flex;
+    margin-left: 150px;
+}
+.linkp{
+    font-size: 20px;
+    color: gray;
+    margin-left: 30px;
+}
+.logo{
+    margin-left: 200px;
+}
+.incoins{
+    margin-left: 150px;
+}
+.incoining{
+    margin-left: 20px;
+}
+.part1{
+    display: flex;
+    margin-top: 100px;
+    align-items:    center;
+}
+.left{
+    padding: 20px;
+    width: 35%;
+    margin-left: 200px;
+}
+.title{
+    font-size: 45px;
+    color: rgb(64, 64, 82);
+}
+.titlep{
+    margin: 30px 9px;
+    color: gray;
+}
+.button-red{
+    background-color: rgb(203, 43, 43);
+    color: white;
+    border: 100px;
+    padding: 20px 50px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px lightgray;
+}
+.top1 {
+    margin-top: 90px;
+    background-color: rgb(238, 236, 236);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 95px;
+    flex-direction: row-reverse;
+    padding-bottom: 20px;
+}
+.left2{
+    padding: 60px 0;
+    width: 35%;
+    margin-left: 0;
+}
+.w2{
+    color: rgb(203, 43, 43);
+    
+}
+.q1{
+    color: rgb(64, 64, 82);;
+}
+.q2{
+    font-size: 15px;
+    margin-top: 30px;
+    color: gray;
+}
+.q3{
+    font-size: 15px;
+    margin-top: 30px;
+    color: gray;
+}
+.red2{
+    color: rgb(203, 43, 43);
+}
+.red3{
+    color: rgb(203, 43, 43);
+}
+.photo {
+    padding-top: -300px;
+    
+    
+}
+.top2{
+    align-items: center;
+    display: flex;
+}
+.left3{
+    padding: 60px 0;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.rt{
+    
+    margin-left: 550px;
+    margin-right: 100px;
+    
+
+}
+.img4{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 217px;
+}
+.csr{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 217px;
+    color: rgb(203, 43, 43);
+}
+.r1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 217px;
+    color: gray;
+}
+.clr{
+     background-color: rgb(203, 43, 43);
+    color: white;
+    border: none;
+    padding: 10px 0px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px lightgray;
+    margin-left: 217px;
+}
+ 
+.img5{
+   margin-left: 520px;
+   margin-top: -500px;
+}
+.celect{
+    margin-bottom: -254px;
+    margin-top: -250px;
+    margin-left: 530px;
+    color: rgb(203, 43, 43);
+}
+.p1{
+    margin-top: 270px;
+    margin-left: 530px;
+    height: -10px;
+    color: gray;
+}
+.bt{
+    background-color: rgb(203, 43, 43);
+    color: white;
+    border: none;
+    padding: 10px 0px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px;
+    margin-left: 530px;
+    margin-top: 10px;
+} 
+.img5{
+    margin-left: 530px;
+    margin-bottom: 264px;
+}
+.top4{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.vector{
+    margin: 10px;
+   margin-top: -330px;
+    margin-left: 850px;
+    color: rgb(203, 43, 43);
+}
+.p2{
+    margin: 10px;
+    margin-bottom: 10px;
+    margin-left: 850px;
+    color: gray;
+}
+.technology{
+    background-color: rgb(203, 43, 43);
+    color: white;
+    border: 10px;
+    padding: 12px 0px;
+    border-radius: 7px;
+    box-shadow: 1px 1px 5px;
+    margin-left: 850px;
+    margin-top: -3px;
+}
+.img6{
+    margin: 10px;
+    margin-bottom: 320px;
+    margin-top: -300px;
+    margin-left: 850px;
+    
+    
+}
+.top5{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.selector{
+    font-size: 10px;
+    margin: 10px;
+    margin-left: 223px;
+    color: rgb(52, 52, 56);
+}
+.p3{
+    margin-bottom: 5px;
+    margin: 10px;
+    margin-left: 223px;
+    color: gray;
+}
+.img7{
+    margin-top: 100px;
+    margin-bottom: 5px;
+    margin-left: 223px;
+}
+.top6{
+    margin-left: 0;
+    margin-top: 0;
+}
+.seliter{
+    font-size: 23px;
+    line-height: 1.5;
+    margin-left: 623px;
+    margin-top: -145px;
+    color: rgb(52, 52, 56);
+}
+.p4{
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 623px;
+    font-size: 15px;
+    color: rgb(52, 52, 56);;
+    
+}
+.top7{
+    margin-left: 0;
+    margin-top: 0;
+}
+.h6{
+  
+    text-align: center;
+    font-size: 23px;
+    background-color: rgb(203, 43, 43);
+    color: wheat;
+    padding: 25px 30px;
+}

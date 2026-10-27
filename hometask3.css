@@ -1,0 +1,49 @@
+.temple{
+ display:flex;
+ justify-content:space-between;
+}
+.temple2{
+    display:flex;
+    gap: 30px;
+    margin-left: 80px;
+}
+.temple3{
+    display:flex;
+    gap: 180px;
+    margin-left: 50px;
+    text-align: center;
+}
+.temple4{
+    display:flex;
+    gap: 300px;
+    margin-left: 100px; 
+   
+}
+.temple5{
+    display:flex;
+    gap: 30px;
+    margin-left: 80px;
+}
+.temple6{
+    display:flex;
+    gap: 180px;
+    margin-left: 250px;
+}
+.temple7{
+    display:flex;
+    gap: 300px;
+    margin-left: 180px;
+    text-align: center;
+}
+.temple8{
+    margin-left: 150px;
+    text-align: center;
+}
+.temple9{
+    text-align: center;
+}
+.tempele10{
+    text-align: center;
+    
+}
+

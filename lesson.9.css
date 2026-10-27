@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+}
+header{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+.icon{
+    display: none;
+}
+.links{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-right: 100px;
+}
+.salom1{
+    margin-left: 980px;
+    margin-top: 100px;
+    width: 900px;
+}
+.salom2{
+    margin-top: -460px;
+    margin-left: 400px;
+    font-size: 30px;
+}
+.salom3{
+    margin-top:30px;
+    color: grey;
+}
+.salom4{
+    background-color:rgb(19, 128, 119);
+    color: white;
+    border: none;
+    padding: 16px 28px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+@media(max-width: 500px){
+    .icon{
+        display: flex;
+    }
+}
+.salom5{
+    margin-top: 500px;
+}
+.salom8{
+margin-top: -450px;
+margin-left: 800px;
+font-size: 40px;
+}
+.salom9{
+margin-left: 800px;
+color: grey;
+
+}
+.salom11{
+margin-top: 350px;
+margin-left: 800px;
+font-size: 40px;
+}
+.salom12{
+    margin-left: 740px;
+    margin-top: 20px;
+    color: grey;
+}
+.salom13{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-between;
+    background-color: white;
+    margin-top: 30px;
+}
+.salom14{
+    margin-left: 200px;
+}
+.salom16{
+    margin-right: 200px;
+}
+.salom18{
+    margin-left: 800px;
+font-size: 40px;
+margin-top: 100px;
+}
+.salom20{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.salom21{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.salom23{
+       margin-left: 200px;
+font-size: 40px;
+margin-top: 300px; 
+}
+.salom24{
+           margin-left: 200px;
+font-size: 20px;
+margin-top: 40px;
+color: grey;
+}
+.salom25{
+    background-color:rgb(19, 128, 119);
+    color: white;
+    border: none;
+    padding: 16px 28px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.salom26{
+    margin-left: 1000px;
+    margin-top: -200px;
+    font-size: 20px;
+    color: grey;
+
+}
+.salom28{
+    margin-top: 20px;
+}
+.salom29{
+    margin-top: 20px;
+}
+.salom30{
+    margin-top: 300px;
+    margin-left: 100px;
+    width: 1600px;
+    background-color: rgb(35, 176, 148);
+    height: 150px;
+}
+.salom31{
+    font-size: 30px;
+}
+.salom32{
+    margin-top: 20px;
+    color: white;
+}
+.salom33{
+    color: white;
+}
+.salom34{
+    margin-left: 1000px;
+    margin-top: -100px;
+}
+.salom100{
+    color: aquamarine;
+}

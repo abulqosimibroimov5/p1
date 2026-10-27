@@ -1,0 +1,9 @@
+input{
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+}
+fieldset{
+    width: 100px;
+
+}

@@ -1,0 +1,11 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 200px 200px 200px;
+    gap: 20px;
+}
+.item{
+    border: 2px solid black; 
+    box-shadow: 5px 5px rgb(139, 139, 171);
+    border-radius: 20px;                   
+}

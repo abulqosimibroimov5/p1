@@ -1,0 +1,455 @@
+header{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+.salom{
+    color: blue;
+}
+.salom1{
+    color: blue;
+}
+.salom2{
+    margin-left: 200px;
+    margin-top: 200px;
+    font-size: 20px;
+}
+.salom4{
+    color: grey;
+}
+.salom5{
+    margin-left: 400px;
+    margin-top: -400px;
+}
+.salom6{
+  background-color:#446DF6;
+    color: white;
+    border: none;
+    padding: 16px 28px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 40px;
+}
+.salom7{
+    display: flex;
+}
+.salom8{
+    margin-left: 100px;
+}
+.salom9{
+font-size: 40px;
+margin-left: 60px;
+}
+.salom10{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    margin-top: -550px;
+    margin-right: 200px;
+}
+.salom16{
+    margin-top: -420px;
+    margin-left: 670px;
+}
+.salom16 p{
+    color: grey;
+}
+.salom17{
+    margin-left: 670px;
+    margin-top: 50px;
+}
+.salom17 p{
+    color: grey;
+}
+.salom18{
+    margin-left: 670px;
+    margin-top: 50px;
+}
+.salom18 p{
+    color: grey;
+}
+.salom19{
+   margin-left: 670px;
+    margin-top: 50px; 
+}
+.salom19 p{
+    color: grey;
+}
+.salom20{
+    margin-left: 400px;
+    margin-top: 200px;
+}
+.salom20 p{
+    color: grey;
+}
+.salom21{
+    margin-left: 100px;
+}
+.salom22{
+    
+  background-color:#446DF6;
+    color: white;
+    border: none;
+    padding: 16px 28px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: 500px;
+}
+.salom23{
+    background-color:#446DF6;
+    border-radius: 20px;
+}
+.salom24{
+    margin-top: 300px;
+    font-size: 50px;
+    margin-left: 200px;
+    color: white;
+}
+.salom25{
+    margin-left: 800px;
+    margin-top: -500px;
+}
+.salom26{
+margin-left: 200px;
+font-size: 20px;
+color: rgba(255, 255, 255, 0.803)
+}
+.salom27{
+    margin-left: 200px;
+    margin-top: -500px;
+}
+.salom28{
+    margin-right: 100px;
+}
+.salom29{
+    margin-left: 200px;
+    margin-top: 150px;
+}
+.salom30{
+    font-size: 50px;
+}
+.salom31{
+    margin-top: -70px;
+    color: grey;
+}
+.salom32{
+    margin-left: 1100px;
+    margin-top: -300px;
+}
+.salom34{
+     align-items: center;
+    display: flex;
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+.salom36{
+    margin-left: 20px;
+}
+.salom39{
+    background-color: #141B41;
+    display: flex;
+     align-items: center;
+    justify-content: space-between;
+}
+.salom37{
+    color:white;
+}
+.salom38{
+    background-color: #141B41;
+    color: white;
+    box-sizing: border-box;
+    margin-right:100px ;
+}
+.salom40{
+    color: white;
+    margin-left: 200px;
+}
+.salom41{
+    color: white;
+}
+.salom42{
+    color: white;
+}
+.salom43{
+    color: white;
+}
+@media(max-width: 500px){
+    body{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        overflow-x: hidden;
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin: 0;
+        padding: 20px;
+        gap: 15px;
+    }
+    .salom{
+        font-size: 24px;
+    }
+    .salom1{
+width: 100%;
+font-size: 14px;
+    }
+    .salom2{
+        margin: 30px 20px;
+        font-size: 20px;
+    }
+    .salom4{
+        font-size: 14px;
+    }
+    .salom5{
+        margin: 20px 0;
+        width: 100%;
+        max-width: 100%;
+    }
+    .salom6{
+        margin-top: 20px;
+        padding: 14px 20px;
+        font-size: 14px;
+    }
+    .salom7{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    .salom9{
+        font-size: 20px;
+        text-align: center;
+    }
+    .salom15, .salom16, .salom17, .salom18{
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+        padding: 15px;
+        box-sizing: border-box;
+    }
+    img{
+        max-width: 100%;
+        height: auto;
+    }
+    h1, h2, p{
+        overflow-wrap: break-word;
+    }
+    button{
+        max-width: 100%;
+    }
+    .salom18, .salom19, .salom20{
+        margin: 20px 15px;
+        width: auto;
+    }
+    .salom18 h2, .salom19 h2, .salom20 h2{
+        font-size: 20px;
+    }
+    .salom18 p, .salom19 p, .salom20 p{
+        color: grey;
+        font-size: 14px;
+    }
+    .salom21{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+        margin: 20px 0;
+    }
+    .salom22{
+        margin: 20px 0;
+        padding: 14px 20px;
+        font-size: 14px;
+    }
+    .salom23{
+        margin: 30px 15px;
+        text-align: center;
+    }
+    .salom24{
+        font-size: 22px;
+    }
+    .salom25, .salom27, .salom28{
+        width: 100%;
+        max-width: 320px;
+        height: auto;
+        margin: 10px auto;
+    }
+    .salom26{
+        color: grey;
+        font-size: 14px;
+    }
+    .salom29{
+        margin: 30px 15px;
+        text-align: center;
+    }
+    .salom30{
+        font-size: 22px;
+    }
+    .salom32, .salom33{
+        width: 100%;
+        max-width: 300%;
+        height: auto;
+        margin: 10px auto;
+    }
+    .salom34{
+        margin: 20px 25px;
+        text-align: center;
+    }
+    .salom35{
+        width: 100%;
+        max-width: 250px;
+        height: auto;
+    }
+    .salom36{
+        font-size: 20px;
+    }
+    .salom37{
+        font-size: 24px;
+    }
+    img{
+        max-width: 100%;
+        height: auto;
+    }
+    button{
+        max-width: 100%;
+    }
+    *{
+        box-sizing: border-box;
+    }
+    body{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        overflow-x: hidden;
+    }
+    header{
+        margin: 0;
+        padding: 15px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+    }
+    [class^="salom"]{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        max-width: 100%;
+    }
+    .salom2,
+    .salom18,
+    .salom19,
+    .salom20,
+    .salom23,
+    .salom29,
+    .salom34,
+    .salom39{
+        margin: 25px 15px !important;
+        width: auto;
+    }
+    .salom5{
+        margin: 20px auto !important;
+        width: 100%;
+    }
+    .salom7{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    img{
+        display: block;
+        max-width: 100%;
+        height: auto;
+        object-fit: contain;
+    }
+    .salom21 img{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    h1, h2, p{
+        max-width: 100%;
+        overflow-wrap: break-word;
+    }
+    button{
+        margin: 15px 0 !important;
+        max-width: 100%;
+    }
+    .salom29{
+        margin-left: 10px;
+        margin-top: 40px;
+    }
+    .salom30{
+        font-size: 28px;
+    }
+    .salom31{
+        margin-top: 10px;
+        color: grey;
+        font-size: 14px;
+    }
+    .salom32{
+        margin-left: 0;
+        margin-top: 15px;
+        max-width: 100%;
+        height: auto;
+    }
+    .salom33{
+        margin-left: 0;
+        margin-top: 15px;
+        max-width: 100%;
+        height: auto;
+    }
+    .salom34{
+        display: flex;
+        align-items: center;
+        margin-left: 10px;
+        margin-top: 30px;
+        gap: 15px;
+    }
+    .salom35{
+        width: 50px;
+        height: 50px;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+    .salom36{
+        margin-left: 0;
+        font-size: 18px;
+    }
+    .salom39{
+        background-color:#446DF6;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+        padding: 25px 20px;
+        margin: 0;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .salom37{
+        color: white;
+        font-size: 24px;
+        margin: 0;
+    }
+    .salom11, .salom12, .salom13, .salom14{
+        width: 250px;
+        height: auto;
+    }
+
+    .salom29{
+        margin-left: 10px;
+    }
+}

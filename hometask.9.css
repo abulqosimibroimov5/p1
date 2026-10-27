@@ -1,0 +1,278 @@
+.salom1{
+    margin-left: 100px;
+    margin-top: -60px;
+    
+}
+.salom2{
+    margin-left: 800px;
+    font-size: 20px;
+    color: red;
+    margin-top: -50px;
+}
+.salom3{
+    margin-left: 75px;
+  color: red;
+}
+.salom4{
+    margin-left: 940px;
+    margin-top: -40px;
+    font-size: 20px;
+}
+.salom5{
+    margin-left: 1080px;
+    margin-top: -45px;
+    font-size: 20px;
+}
+.salom6{
+    margin-left: 1230px;
+    margin-top: -43px;
+    font-size: 20px;
+}
+.salom7{
+      background-color:rgb(204, 111, 71);
+    color: white;
+    border: none;
+    padding: 16px 28px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: 1500px;
+    margin-top: -50px;
+}
+.salom9{
+    margin-left: 800px;
+}
+.salom10{
+    margin-top: -1000px;
+    font-size: 50px;
+}
+.salom12{
+    color: rgb(255, 123, 0);
+    margin-top: -50px;
+}
+.salom13{
+    font-size: 30px;
+    color: grey;
+    margin-top: -30px;
+}
+.salombu{
+          background-color:rgb(204, 111, 71);
+    color: white;
+    border: none;
+    padding: 16px 28px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+   
+}
+.salombut{
+    margin-left: 150px;
+    margin-top: -100px;
+    padding: 16px 28px;
+    font-size: 14px;
+}
+.salom17{
+    margin-top: 500px;
+    margin-left: 700px;
+    font-size: 50px;
+}
+.salom18{
+    margin-left: 995px; 
+    margin-top: -85px;
+    color: rgb(255, 140, 0);
+    font-size: 50px;
+}
+.salom20{
+    margin-left: 400px;
+   
+}
+.salom22{
+ margin-left: 500px;
+
+}
+.salom32{
+    margin-left: 200px;
+    width: 700px;
+}
+.salom33{
+    font-size: 30px;
+    margin-left: 900px;
+    margin-top: -750px;
+}
+.salom34{
+color: rgb(255, 115, 0);
+}
+.salom35{
+    margin-left: 150px;
+    margin-top: -110px;
+}
+.salom36{
+    margin-left: 380px;
+    margin-top: -110px;
+    color: rgb(255, 115, 0);
+}
+.salom37{
+    color: grey;
+}
+.salom42{
+         background-color:rgb(204, 111, 71);
+    color: white;
+    border: none;
+    padding: 16px 28px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: 900px; 
+    border-radius: 20px;
+}
+.salom43{
+    font-size: 30px;
+    margin-left: 700px;
+    margin-top: 80px;
+}
+.salom45{
+    margin-left: 270px;
+    margin-top: -110px;
+     color: rgb(255, 115, 0);
+}
+.salom47{
+    margin-left: 350px;
+}
+.salom49{
+    margin-left: 900px;
+    margin-top: 150px;
+}
+.salom50{
+    font-size: 20px;
+    margin-top: -300px;
+    margin-left: 300px;
+}
+.salom52{
+    margin-left: 270px;
+    margin-top: -75px;
+    color: rgb(255, 115, 0);
+}
+.salom53{
+    color: grey;
+}
+.salom55{
+    margin-left: 250px;
+    margin-top: 200px;
+}
+.salom57{
+    font-size: 20px;
+    margin-left: 600px;
+    margin-top: 200px;
+}
+.salom59{
+    margin-left: 370px;
+    margin-top: -75px;
+      color: rgb(255, 115, 0);
+}
+.salom56{
+    margin: -100px;
+}
+.salom60{
+    font-size: 30px;
+margin-left: 540px;
+margin-top: -400px;
+color: grey;
+}
+.salom61{
+    margin-left: 540px;
+    margin-top: 100px;
+    color: red;
+}
+.salom62{
+     margin-left: 540px;
+     color: grey; 
+}
+.salom63{
+    position: absolute;
+    width: 1370px;
+    height: 402px;
+    background-color:rgb(255, 115, 0);
+    margin-left: 200px;
+    margin-top: 200px;
+    border-radius: 20px;
+}
+.salom64{
+    position: absolute;
+    margin-top: 300px;
+    font-size: 50px;
+    margin-left: 500px;
+    color: white;
+}
+.salom65{
+    position: absolute;
+    margin-top: 370px;
+    font-size: 30px;
+    margin-left: 400px;
+    color: white;
+}
+.salom66{
+    position: absolute;
+    margin-top: 470px;
+    font-size: 60px;
+    margin-left: 450px;
+
+}
+.salom67{
+    position: absolute;
+    margin-top: 480px;
+    font-size: 50px;
+    margin-left: 1000px;
+    color: white;
+    background-color:rgb(255, 115, 0);
+    border-radius: 30px;
+}
+.salom68{
+    margin-top: 700px;
+}
+.salom69{
+  color:rgb(255, 115, 0);
+}
+.salom70{
+    margin-left: 30px;
+    margin-top: -60px;
+}
+.salom71{
+    margin-left: 400px;
+    font-size: 30px;
+    margin-top: -60px;
+}
+.salom72{
+    margin-left: 800px;
+    font-size: 30px;
+    margin-top: -70px;
+}
+.salom73{
+    margin-left: 1200px;
+    font-size: 30px;
+    margin-top: -70px;
+}
+.salom77{
+    font-size: 30px;
+    color: grey;
+}
+.salom78{
+    margin-left: 400px;
+    margin-top: -100px;
+}
+.salom83{
+    margin-left: 800px;
+    margin-top: -150px;
+}
+.salom88{
+    margin-left: 1200px;
+    margin-top: -150px;
+}

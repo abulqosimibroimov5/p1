@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+.page-title{
+    text-align: center;
+    color: red;
+    padding: 25px 10px;
+    font-size: 28px;
+}
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+.hero{
+    display: flex;
+    min-height: 550px;
+    background-color: black;
+    border-radius: 15px;
+    overflow: hidden;
+    margin-bottom: 70px;
+}
+.hero-text{
+    width: 50%;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.logo{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+.heading h1 {
+font-size: 65px;
+line-height: 1.1;
+margin-bottom: 25px;
+}
+.heading p {
+    color: grey;
+    font-size: 16px;
+    line-height: 1.8;
+    max-width: 400px;
+}
+.subscribe{
+    display: flex;
+    margin-top: 35px;
+    gap: 10px;
+}
+.subscribe input{
+    min-width: 0;
+    flex: 1;
+    padding: 15px;
+    border: 1px solid rgb(103, 101, 101);
+    background: black;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+}
+button{
+    background: red;
+    color: white;
+    border: none;
+    padding: 14px 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: 0.3s;
+}
+button:hover{
+    background: rgb(193, 28, 28);
+    transform: translateY(-2px);
+}
+.hero-image{
+    width: 50%;
+    min-height: 550px;
+    background-image: 
+    linear-gradient(to bottom,rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.1))
+    url(./telegram-cloud-photo-size-2-5362059467408744710-m.jpg); 
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.top-menu{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 22px;
+    padding: 30px 15px;
+}
+.top-menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    transition: 0.3;
+}
+.top-menu a:hover{
+   color: red;
+}
+.heading{
+    background-image: url(./telegram-cloud-photo-size-2-5368541217303502038-x.jpg);
+}
+.about content{
+    background-image: url(./telegram-cloud-photo-size-2-5368564272687946862-x.jpg);
+}

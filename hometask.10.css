@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.salom{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+.salomb{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.salom1{
+    position: absolute;
+ top: 45%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ width: 90%;
+}
+.salom1 h1{
+    font-size: 30px;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+}
+.salom1 p{
+    font-size: 16px;
+}
+.salom2{
+    position: absolute;
+    bottom: 30px;
+    font-size: 12px;
+    letter-spacing: 3px;
+}
+.salom3{
+    display: flex;
+    font-size: 20px;
+    gap: 50px;
+    margin-left: 1350px;
+    margin-top: -20px;
+    color: grey;
+}
+.salom10{
+  margin-left: 300px;
+
+}
+.salom4{
+    margin-top: 20px;
+}
+.salom6{
+    color: rgb(64, 177, 221);
+}
+.salom10{
+    font-size: 13px;
+}
+.salom11{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.salom12{
+    margin-top: 100px;
+}
+.salom13{
+    margin-top: 70px;
+    color: grey;
+}
+.salom14{
+    margin-left: 700px;
+    margin-top: -400px;
+}
+.salom15{
+    gap: 20px;
+}
+.salom16{
+    gap: 20px;
+}
+.salom17{
+    gap: 20px;
+}
+.salom19{
+    margin-top: 300px;
+    margin-left: 300px;
+}
+.salom20{
+    margin-top: -30px;
+    margin-left: 900px;
+    color: grey;
+}
+.salom21{
+          background-color:rgb(64, 177, 221);
+    color: white;
+    border: none;
+    padding: 16px 28px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: 1500px;
+    margin-top: -50px;
+}
+.salom22{
+   display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.salom23{
+    margin-left: 300px;
+}
+.salom25{
+    margin-right: 300px;
+}
+.salom26{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  color: black;
+  font-size: 30px;
+}
+.salom27{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.salom28{
+    position: absolute;
+ top: 45%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ width: 90%;
+}
+.salom29{
+          background-color:rgb(64, 177, 221);
+    color: white;
+    border: none;
+    padding: 16px 28px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: 700px;
+    font-size: 40px;
+}
+.salom30{
+display: flex;
+align-items: center;
+width: 750px;
+height: 65px;
+border: 5px solid rgb(60, 180, 227);
+margin: 100px auto;
+box-sizing: border-box;
+margin-top: 1100px;
+}
+.salom30 h1{
+  color: white;
+  font-size: 25px;
+  margin: 0;
+  padding-left: 10px;
+  width: 40%;
+
+}
+.salom30 input{
+    height: 55px;
+    width: 38px;
+    box-sizing: border-box;
+    border: none;
+    padding-left: 15px;
+    font-size: 16px;
+    outline: none;
+}
+.salom30 button{
+    height: 55px;
+    flex: 1;
+    background-color:rgb(60, 180, 227);
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.salom40{
+    margin-top: 1000px;
+}
+  

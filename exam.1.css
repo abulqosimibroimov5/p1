@@ -1,0 +1,458 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+header{
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.salom{
+    font-size: 18px;
+    display: flex;
+    gap: 35px;
+
+}
+.salom1{
+    background-color: #447C2A;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: 18px;
+    box-shadow: 1px 1px 25px #f9c3a8;
+    border-radius: 30px;
+}
+.salom2{
+    width: 300px;
+    height: 50px;
+}
+.salom4{
+    position: absolute !important;
+    width: 100%;
+}
+.salom5{
+    display: block;
+    border-radius: 30px;
+      width: 100%;
+}
+.salom6{
+    position: absolute !important;
+    top: 25%;
+    left: 10%;
+    color: white;
+}
+.salom6 h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.salom6 p{
+    font-size: 24px;
+    padding: 5px;
+    width: 380px;
+    margin-top: 100px;
+}
+.salom6 a{
+      display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.salom7{
+      display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.salom8{
+    width: 500px;
+    height: 200px;
+    margin-top: 600px;
+    margin-left: 500px;
+}
+.salom9{
+    font-size: 45px;
+    margin-right: 100px;
+}
+.salom9 span{
+    color: rgb(186, 173, 173);
+}
+.salom11{
+    margin-top: 70px;
+    color: grey;
+}
+.salom13{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.salom13 span{
+        color: rgb(186, 173, 173);
+}
+.salom15{
+    margin-top: 50px;
+}
+.salom16{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 400px;
+    height: 20px;
+    margin-left: 1000px;
+    margin-top: -600px;
+}
+.salom23{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 400px;
+    height: 20px;
+    margin-left: 600px;
+}
+.salom24{
+
+display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 650px;
+}
+.salom24 span{
+      color: rgb(186, 173, 173);
+}
+.salom25{
+    margin-top: 50px;
+}
+.salom26{
+     background-color: #447C2A;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: 18px;
+    box-shadow: 1px 1px 25px #f9c3a8;
+    border-radius: 30px;
+    margin-right: 40px;
+}
+.salom27{
+    font-size: 20px;
+ margin-left: 600px;
+ color: grey;
+}
+.salom28{
+    margin-top: 100px;
+}
+.salom29{
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.salom29 span{
+     color: rgb(186, 173, 173);
+}
+.salom30{
+    margin-left: 800px;
+}
+.salom31{
+     background-color: #447C2A;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: 18px;
+    box-shadow: 1px 1px 25px #f9c3a8;
+    border-radius: 30px;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+.salom33{
+    font-size: 30px;
+    margin-top: -600px;
+    margin-left: 200px;
+}
+.salom34{
+    margin-left: 100px;
+    margin-top: 50px;
+    color: grey;
+}
+.salom35{
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.salom36{
+    margin-left: 800px;
+    margin-top: -50px;
+}
+.salom38{
+     background-color: #447C2A;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: 18px;
+    box-shadow: 1px 1px 25px #f9c3a8;
+    border-radius: 30px;
+    margin-left: 550px;
+    margin-top: 200px;
+}
+.salom39{
+ font-size: 50px;
+ margin-top: -550px;
+ margin-left: 200px;
+}
+.salom102{
+    margin-top: 50px;
+    margin-left: 100px;
+    color: grey;
+}
+.salom41{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.salom40{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.salom42{
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.salom42 span{
+       color: rgb(186, 173, 173);
+}
+.salom43{
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.salom44{
+    margin-left: 500px;
+    margin-top: -600px;
+}
+.salom45{
+    margin-left: 950px;
+    margin-top: -400px;
+}
+.salom46{
+    margin-right: 100%;
+}
+.salom47{
+    width: 1300px;
+    height: 700px;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+
+@media(max-width: 500px){
+    *{
+        box-sizing: border-box;
+    }
+    body{
+        width: 100%;
+        overflow-x: hidden;
+    }
+    header{
+        width: 100%;
+        padding: 15px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 15px;
+    }
+    .salom{
+        font-size: 13px;
+        gap: 12px;
+        flex-wrap: wrap;
+    }
+    .salom1{
+        font-size: 12px;
+        padding: 8px 14px;
+    }
+    .salom2{
+        width: 130px;
+        height: auto;
+    }
+    .salom4{
+        width: 100%;
+        position: relative !important;
+    }
+    .salom5{
+        width: 100%;
+        height: auto;
+        border-radius: 15px;
+        display: block;
+    }
+    .salom6{
+        position: absolute !important;
+        top: 10%;
+        left: 5%;
+        right: 5%;
+        color: white;
+    }
+    .salom6 h1{
+        font-size: 20px;
+        margin-bottom: 8px;
+    }
+    .salom6 p{
+     width: 100%;
+     font-size: 13px;
+     padding: 0;
+     margin-top: 15px;   
+    }
+    .salom6m a{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .salom7{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    .salom8{
+        width: 90%;
+        height: auto;
+        margin: 40px auto 0;
+        display: block;
+    }
+    .salom9{
+        font-size: 27px;
+        margin: 20px 15px;
+    }
+    .salom11{
+        margin-top: 25px;
+        font-size: 14px;
+    }
+    .salom13{
+        margin: 50px 15px 0;
+    }
+    .salom15{
+        margin-top: 25px;
+        max-width: 100%;
+    }
+    .salom16{
+        width: auto;
+        height: auto;
+        margin: 30px 15px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .salom23{
+    width: auto;
+        height: auto;
+        margin: 30px 15px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .salom24{
+        margin-top: 50px;
+        padding: 0 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    .salom25{
+        margin-top: 25px;
+        max-width: 100%;
+    }
+    .salom26{
+        font-size: 13px;
+        padding: 8px 15px;
+        margin-right: 0;
+    }
+    .salom27{
+        font-size: 15px;
+        margin: 25px 15px;
+    }
+    .salom28{
+        margin-top: 40px;
+        max-width: 100%;
+    }
+    .salom29{
+        font-size: 15px;
+        margin: 30px 15px;
+    }
+    .salom30{
+        margin: 20px 15px;
+        max-width: 100%;
+    }
+    .salom31{
+        display: block;
+        font-size: 13px;
+        padding: 8px 15px;
+        margin: 40px auto;
+    }
+    .salom33{
+        font-size: 23px;
+        margin: 40px 15px 0;
+    }
+    .salom34{
+        margin: 25px 15px;
+        max-width: calc(100%-30px);
+    }
+     .salom35{
+        margin: 25px 15px;
+        max-width: calc(100%-30px);
+    }
+     .salom36{
+        margin: 25px 15px;
+        max-width: calc(100%-30px);
+    }
+    .salom38{
+        display: block;
+        font-size: 13px;
+        padding: 8px 15px;
+        margin: 40px auto;
+    }
+    .salom39{
+        margin-left: 200px;
+        font-size: 28px;
+        margin: 40px 15px 0;
+    }
+    .salom40{
+        margin: 25px 15px;
+        max-width: calc(100%-30px);
+    }
+      .salom41{
+        margin: 25px 15px;
+        max-width: calc(100%-30px);
+    }
+    .salom42{
+        font-size: 16px;
+        margin: 40px 15px;
+    }
+    .salom43{
+        margin: 40px 15px;
+        max-width: calc(100%-30px);
+    }
+    .salom44{
+        margin: 30px 15px;
+        max-width: calc(100%-30px);
+    }
+    
+       .salom45{
+        margin: 30px 15px;
+        max-width: calc(100%-30px);
+    }
+    .salom46{
+        margin: 0;
+        max-width: 100%;
+    }
+    .salom47{
+        width: 100%;
+        height: auto;
+        margin: 30px 0;
+        display: block;
+    }
+    img{
+        max-width: 100%;
+        height: auto;
+    }
+}

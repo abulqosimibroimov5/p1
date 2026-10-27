@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+header{
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav{
+    font-size: 18px;
+    display: flex;
+    gap: 25px;
+}
+.salom1{
+    margin-top: 100px;
+}
+.salom3{
+    background-color:#438DB8;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.salom4{
+    margin-top: 50px;
+    color: grey;
+}
+.salom5{
+    margin-left: 300px;
+    margin-top: -300px;
+}
+.salom6{
+margin-top: 100px;
+}
+.salom7{
+    font-size: 30px;
+    margin-left: 400px;
+    margin-top: 200x;
+    color: grey;
+}
+.salom8{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.alom{
+    padding: 20px;
+}
+.alom1{
+    padding: 20px;
+}
+.alom2{
+    padding: 20px;
+}
+.alom3{
+    padding: 20px;
+}
+.alom4{
+    padding: 30px;
+}
+.salom9{
+margin-left: 100px;
+margin-top: 100px;
+}
+.salom10{
+margin-top: 100px;
+margin-left: 100px;
+}
+.salom11{
+    padding: 20px;
+}
+.salom12{
+    padding: 20px;
+}
+.salom13{
+    padding: 20px;
+}
+.salom14{
+    padding: 20px;
+}
+.salom17{
+    margin-top: 100px;
+    margin-left: 200x;
+}
+
+.salom16{
+    margin-left: 500px;
+    margin-top: -150px;
+}
+.salom18{
+    margin-top: -100px;
+    margin-left: 800px;
+}
+.salom19{
+    margin-left: 1100px;
+    margin-top: -100px;
+}
+
+@media (max-width: 500px) {
+    header{
+        flex-direction: column;
+        gap: 20px;
+        padding: 15px;
+    }
+
+    .nav {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+        font-size: 16px;
+    }
+
+    .salom1 {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    .salom3 {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+
+    .salom4 {
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .salom5 {
+        margin: 30px auto;
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .salom6 {
+        margin-top: 40px;
+    }
+
+    .salom7 {
+        font-size: 24px;
+        margin: 40px 10px;
+        text-align: center;
+    }
+
+    .salom8,
+    .salom9,
+    .salom10 {
+        margin: 40px 15px;
+    }
+
+    .alom,
+    .alom1,
+    .alom2,
+    .alom3,
+    .alom4,
+    .salom11,
+    .salom12,
+    .salom13,
+    .salom14 {
+        padding: 10px;
+    }
+
+    .salom16,
+    .salom17,
+    .salom18,
+    .salom19 {
+        margin: 20px 10px;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}

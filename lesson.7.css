@@ -1,0 +1,28 @@
+.conteiner{
+    height: 1500px;
+    width: 1500px;
+    background-color: rgb(43, 42, 42);
+    
+}
+
+.panel{
+    height: 200px;
+    width: 200px;
+    border: 3px solid skyblue;
+    border-radius: 10%;
+    background-color: aqua;
+    color: white;
+    font-size: 40px;
+}
+.centerdiv{
+        height: 200px;
+    width: 200px;
+    border: 3px solid skyblue;
+    border-radius: 50%;
+    background-color: rgb(0, 34, 255);
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+}
+

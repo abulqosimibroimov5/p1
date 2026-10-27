@@ -1,0 +1,47 @@
+
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+caption {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+th, td {
+    border: 1px solid black;
+    height: 35px;
+    width: 10%;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.number {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+.feedback {
+    background-color: pink;
+    font-size: 20px;
+    font-weight: bold;
+}
